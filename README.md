@@ -1,5 +1,5 @@
-### hello! my name is hima (she/her) 
-## i'm a software developer passionate about tech for social good :sparkles:
+## hello! my name is hima (she/her) 
+### i'm a software developer passionate about tech for social good :sparkles:
 
 I'm a creative problem solver hoping to use tech to solve larger problems in the world. I’m interested in product/project management, full stack development, technical writing, and fintech!! I'm currently a Computer Science Student studying at University of Waterloo. 
 
