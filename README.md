@@ -8,7 +8,9 @@ Outside of school I like to spend my time travelling to new places and exploring
 ```json
 {
   "name" : "Hima Sheth",
-  "student" : true,
+  "school" : "university of waterloo",
+  "program" : "computer science co-op"
+  "year" : "first year"
   "goal" : "to create software that will change the world",
 }
 ```
