@@ -1,5 +1,5 @@
 ## hello! my name is hima (she/her) 
-### i'm a software developer passionate about tech for social good :sparkles:
+### :sparkles: i'm a software developer passionate about tech for social good :sparkles:
 
 I'm a creative problem solver hoping to use tech to solve larger problems in the world. I’m interested in product/project management, full stack development, technical writing, and fintech!! I'm currently a Computer Science Student studying at University of Waterloo. 
 
@@ -17,7 +17,7 @@ Outside of school I like to spend my time travelling to new places and exploring
 ```
 
 ### the present day
-I'm actively searching for a 2021 summer internship! I'm also pursuing my interest in tech for social good at [UW Blueprint](uwblueprint.org) as a project dev. I'm also working as a full stack developer at [UW's Entrepreneurship Society](www.entsoc.ca). In my spare time, I'm working on my personal website but also reading about other sectors in tech such as fintech, e-commerce, and technical writing. Please feel free to reach out if you want to discuss any of these topics! I'm always looking for others to learn from.
+I'm actively searching for a 2021 summer internship! I'm also pursuing my interest in tech for social good at [UW Blueprint](http://uwblueprint.org/) as a project dev. I'm also working as a full stack developer at [UW's Entrepreneurship Society](http://entsoc.ca/). In my spare time, I'm working on my personal website but also reading about other sectors in tech such as fintech, e-commerce, and technical writing. Please feel free to reach out if you want to discuss any of these topics! I'm always looking for others to learn from.
 
 
 ### connect with me! :iphone:
