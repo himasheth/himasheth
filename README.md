@@ -11,6 +11,7 @@ Outside of school I like to spend my time travelling to new places and exploring
   "school" : "university of waterloo",
   "program" : "computer science co-op",
   "year" : "first year",
+  "job-searching" : true,
   "goal" : "to create software that will change the world"
 }
 ```
