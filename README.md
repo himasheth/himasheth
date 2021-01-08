@@ -18,7 +18,7 @@ I'm actively searching for a 2021 summer internship! I'm also pursuing my intere
 
 
 ### connect with me! :iphone:
-[facebook](https://facebook.com/hima.sheth.10)
+#1877F2 [facebook](https://facebook.com/hima.sheth.10)
 [linkedin](https://www.linkedin.com/in/himasheth/)
 [email](mailto:himasheth05@gmail.com)
 
