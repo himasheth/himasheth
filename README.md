@@ -10,7 +10,7 @@ Outside of school I like to spend my time travelling to new places and exploring
   "name" : "Hima Sheth",
   "school" : "university of waterloo",
   "program" : "computer science co-op",
-  "year" : "first year",
+  "year" : "second year",
   "job-searching" : true,
   "goal" : "to create software that will change the world"
 }
