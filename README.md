@@ -17,7 +17,9 @@ Outside of school I like to spend my time travelling to new places and exploring
 ```
 
 ### the present day
-I'm currently a software developer intern @ Auvik Networks Inc. in Waterloo, Ontario! I'm also pursuing my interest in tech for social good at [UW Blueprint](http://uwblueprint.org/) as a project dev as well as working with [Dimagi](https://www.dimagi.com/) to create an app to diagnose/control the spread the spread of Tuberculosis. I'm also working as a full stack developer at [UW's Entrepreneurship Society](http://entsoc.ca/). In my spare time, I'm working on my personal website but also reading about other sectors in tech such as fintech, e-commerce, and technical writing. Please feel free to reach out if you want to discuss any of these topics! I'm always looking for others to learn from.
+I'm recently finished an internship as a **software developer intern @ Auvik Networks Inc**. in Waterloo, Ontario! I worked on the product growth team where I develpper full stack applications to increase turnover from free trial users to paid subscribers! I also worked alongside a tech lead to investigate testing/code quality across the engineering department and propose a test plan to unify the efforts across the board. My next destination is **HubSpot in Cambridge, MA, USA** for their Spring (Jan-April 2022) Software Engineering Internship!
+
+I'm pursuing my interest in tech for social good at [UW Blueprint](http://uwblueprint.org/) where I worked a project developer. I'm also a [Hack the North](https://hackthenorth.com/) organizer (Canada's biggest hackathon)! In my spare time, I'm working on my personal website but also reading about other sectors in tech such as fintech, e-commerce, and mapping/geo work. Please feel free to reach out if you want to discuss any of these topics! I'm always looking for others to learn from.
 
 
 ### connect with me! :iphone:
